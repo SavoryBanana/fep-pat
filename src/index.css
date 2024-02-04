@@ -6,6 +6,7 @@
   font-family: 'Inter', sans-serif;
   color-scheme: light dark;
   text-rendering: auto;
+  background-color: light-dark(white, #121212);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
