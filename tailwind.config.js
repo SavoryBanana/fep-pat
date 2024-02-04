@@ -5,7 +5,8 @@ export default {
     extend: {
       colors: {
         'terminal-theme' : '#1E1E1E',
-        'terminal-tab' : '#36363B'
+        'terminal-tab' : '#36363B',
+        'header' : '#121212'
       }
     },
   },
